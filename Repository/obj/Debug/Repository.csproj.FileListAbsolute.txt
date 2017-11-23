@@ -1,0 +1,8 @@
+E:\practice\4500SDK\Product\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\practice\4500SDK\Product\Repository\bin\Debug\Repository.dll
+E:\practice\4500SDK\Product\Repository\bin\Debug\Repository.pdb
+E:\practice\4500SDK\Product\Repository\bin\Debug\System.Data.SQLite.dll
+E:\practice\4500SDK\Product\Repository\obj\Debug\Repository.dll
+E:\practice\4500SDK\Product\Repository\obj\Debug\Repository.pdb
+E:\practice\4500SDK\Product\Repository\bin\Debug\Entity.dll
+E:\practice\4500SDK\Product\Repository\bin\Debug\Entity.pdb

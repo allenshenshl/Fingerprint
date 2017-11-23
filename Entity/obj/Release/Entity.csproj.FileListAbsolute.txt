@@ -1,0 +1,5 @@
+E:\practice\funk\sdk\ActiveX\samples\Entity\bin\Release\Entity.dll
+E:\practice\funk\sdk\ActiveX\samples\Entity\bin\Release\Entity.pdb
+E:\practice\funk\sdk\ActiveX\samples\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+E:\practice\funk\sdk\ActiveX\samples\Entity\obj\Release\Entity.dll
+E:\practice\funk\sdk\ActiveX\samples\Entity\obj\Release\Entity.pdb

@@ -1,0 +1,4 @@
+E:\practice\funk\sdk\ActiveX\samples\Business\bin\Release\Business.dll
+E:\practice\funk\sdk\ActiveX\samples\Business\bin\Release\Business.pdb
+E:\practice\funk\sdk\ActiveX\samples\Business\obj\Release\Business.dll
+E:\practice\funk\sdk\ActiveX\samples\Business\obj\Release\Business.pdb

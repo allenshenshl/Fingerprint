@@ -1,0 +1,5 @@
+E:\practice\4500SDK\Product\Entity\bin\Debug\Entity.dll
+E:\practice\4500SDK\Product\Entity\bin\Debug\Entity.pdb
+E:\practice\4500SDK\Product\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\practice\4500SDK\Product\Entity\obj\Debug\Entity.dll
+E:\practice\4500SDK\Product\Entity\obj\Debug\Entity.pdb
